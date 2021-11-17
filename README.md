@@ -8,7 +8,7 @@
 </p>
 
 ## Projeto de um CRUD com Laravel
-Linguagens:
+Linguagens Utilizadas:
 - PHP Laravel
 - bootstrap 4
 - Html
