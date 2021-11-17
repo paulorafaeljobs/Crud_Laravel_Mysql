@@ -6,3 +6,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## Projeto de um CRUD com Laravel
+Linguagens:
+- PHP Laravel
+- bootstrap 4
+- Html
+- CSS
+- Javascript
+
+<img src="CRUD-LARAVEL.jpg">
