@@ -1,0 +1,8 @@
+table{margin: auto;margin-top: 50px;width: 70%;}
+.conteiner{width: 600px;margin:auto;}
+.h1{text-align: center;margin-top: 30px;}
+/*Sistema de Upload com Preview de foto*/
+.file{display: none;}
+.max-width{max-width: 500px;width: 300px;}
+#imgPhoto{width: 150px;cursor: pointer;transition: background .3s;border-radius: 100px;}
+/*Fim do Sistema de Upload com Preview de foto*/
