@@ -3,6 +3,7 @@
 ## Projeto de um CRUD com Laravel
 Linguagens Utilizadas:
 - PHP Laravel
+- Mysql
 - bootstrap 4
 - Html
 - CSS
